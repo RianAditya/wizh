@@ -56,7 +56,7 @@ cd flutter_travel_ui
 
     - Open the project in VS Code.
     - Use the integrated terminal to run Flutter commands.
-    - pres shift + ctrl + p to open terminal
+    - pres ctrl + ~ to open terminal
 
 3. **Install Dependencies**:
 
