@@ -1,0 +1,2 @@
+C:/Users/Rian/Documents/work/codeantler/App/Flutter/flutter_travel_ui-main/android/app/.cxx/RelWithDebInfo/6i473a6p/x86/CMakeFiles/edit_cache.dir
+C:/Users/Rian/Documents/work/codeantler/App/Flutter/flutter_travel_ui-main/android/app/.cxx/RelWithDebInfo/6i473a6p/x86/CMakeFiles/rebuild_cache.dir
